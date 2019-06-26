@@ -1,0 +1,79 @@
+#first-bar{
+
+    color: white;
+    text-align: center;
+    padding-bottom: 18px;
+    background-image: linear-gradient(#484e57,#5e667a , #484e57);
+    padding-top: 3px;
+    
+    }
+    #second-bar{
+        text-align: center;
+        padding-bottom: 18px;
+        margin-top:20px; 
+        border-bottom: 20px;
+    }
+    .input{
+        border-radius: 10px;
+        border-color:grey; 
+        border-radius: 10px;
+    border-block-end-width: 1px;
+    border-block-start-width: 1px;
+    }
+    #third-bar{
+        background-color: blanchedalmond;
+        color: black;
+        text-align: center;
+        padding-bottom: 120px;
+        padding-top: 48px;
+        padding-bottom: 56px;
+        font-size: 28px;
+    }
+    .span{
+        color: red;
+        font-size: 80px;
+    }
+    #btn{
+        padding: 17px 31px;
+        border: none;
+        border-radius: 16px;
+    }
+    #forth-bar{
+        background-color: black;
+        justify-content: space-evenly;
+        display: flex;
+        background-image: linear-gradient(#484e57,#5e667a , #484e57);
+    }
+    .rupees-bar{
+        color: white;
+        text-align: center;
+        background-color: green;
+        margin-right: 71px;
+        padding-top:20px; 
+    }
+    
+    .num{
+        color: green;
+        background-color: white;
+    }
+    #nana{
+        color: green;
+        background-color: white;
+    } 
+    .button-section{
+        display: flex;
+        justify-content: center;
+    }
+    .subtract-btn{
+        border-radius: 20px 0px 0px 20px;
+        border: none;
+        background-color:#3f4544;
+        padding: 9px;
+    }
+    .add-btn{
+        border-radius: 0px 20px 20px 0px;
+        border: none;
+        background-color:#3f4544;
+        padding: 9px;
+    }
+    
